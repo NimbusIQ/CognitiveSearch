@@ -1,0 +1,9 @@
+{
+  "name": "NimbusIQ Sovereign OS",
+  "description": "The Iron Dome for Insurance Claims. A sovereign B2B workspace powered by Gemma Robotics IQ, leveraging Google Cloud serverless and AI infrastructure.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
